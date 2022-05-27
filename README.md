@@ -2,8 +2,8 @@
 
 Foca 持久化 cookie 引擎，基于 `document.cookie` API。
 
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/foca-js/foca-taro-storage/Test/master?label=test&logo=jest)](https://github.com/foca-js/foca-taro-storage/actions)
-[![Codecov](https://img.shields.io/codecov/c/github/foca-js/foca-taro-storage?logo=codecov)](https://codecov.io/gh/foca-js/foca-taro-storage)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/foca-js/foca-cookie-storage/Test/master?label=test&logo=jest)](https://github.com/foca-js/foca-cookie-storage/actions)
+[![Codecov](https://img.shields.io/codecov/c/github/foca-js/foca-cookie-storage?logo=codecov)](https://codecov.io/gh/foca-js/foca-cookie-storage)
 [![License](https://img.shields.io/github/license/foca-js/foca-cookie-storage?logo=open-source-initiative)](https://github.com/foca-js/foca-cookie-storage/blob/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/foca-cookie-storage?logo=npm)](https://www.npmjs.com/package/foca-cookie-storage)
 
